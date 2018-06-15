@@ -1,0 +1,6 @@
+{
+  "name": "ember-gallery",
+  "dependencies": {
+    "perfect-layout": "^1.1.1"
+  }
+}
